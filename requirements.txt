@@ -1,0 +1,13 @@
+# Dependencies used by notebooks in NHANES_dataset:
+# - data_analysis.ipynb
+# - traditional data/traditional_anonymization.ipynb
+# - synthetic data/synthetic_data_generation.ipynb
+# - comparison/comparison_NHANES.ipynb
+
+codecarbon==3.2.0
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+pycanon==1.0.1.post2
+scikit-learn==1.6.1
+sdv==1.19.0
